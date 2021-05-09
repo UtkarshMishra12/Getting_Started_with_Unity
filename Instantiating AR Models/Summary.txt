@@ -1,0 +1,2 @@
+Instantiating objects, also known as spawning, and adjusting their positions are foundational features of interactive AR applications. 
+Although these applications may serve different use cases with different visual styles, the logic behind object spawning is typically very consistent. 
